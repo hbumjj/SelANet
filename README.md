@@ -1,4 +1,4 @@
-# SelANet
+# SelANet-Tensorflow
 SelANet: Decision-Assisting Selective Sleep Apnea Detection Based on Confidence Score
 
 numpy: 1.19.5
