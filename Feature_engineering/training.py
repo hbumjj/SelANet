@@ -20,9 +20,9 @@ def data_shuffle(data):
 
 def load_data(mode, data_type):
     if data_type == 'sao2':
-        base_path = 'D:/연구_최종/SAO2/'
+        base_path = 'PATH/SAO2/'
     elif data_type == 'resp':
-        base_path = 'D:/연구_최종_결과분석/EDR/'
+        base_path = 'PATH/EDR/'
     else:
         raise ValueError("Invalid data_type. Choose 'sao2' or 'resp'.")
 
