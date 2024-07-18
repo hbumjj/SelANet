@@ -33,13 +33,14 @@ SelANet is an algorithm developed to detect sleep apnea using limited biological
 ## Model Architecture
 
 ### TCN-based Autoencoder
-![TCN-based Autoencoder](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12911-023-02292-3/MediaObjects/12911_2023_2292_Fig1_HTML.png?as=webp){width=50%}
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12911-023-02292-3/MediaObjects/12911_2023_2292_Fig1_HTML.png?as=webp" alt="TCN-based Autoencoder" width="80%">
 
 ### Selective Prediction Model
 ![Selective Prediction Model](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12911-023-02292-3/MediaObjects/12911_2023_2292_Fig2_HTML.png?as=webp){width=50%}
 
 ### TSNE Result
 ![TSNE Result](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12911-023-02292-3/MediaObjects/12911_2023_2292_Fig5_HTML.png?as=webp){width=50%}
+
 
 ## Conclusion
 
