@@ -33,13 +33,19 @@ SelANet is an algorithm developed to detect sleep apnea using limited biological
 ## Model Architecture
 
 ### TCN-based Autoencoder
-<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12911-023-02292-3/MediaObjects/12911_2023_2292_Fig1_HTML.png?as=webp" alt="TCN-based Autoencoder" width="80%">
+<div align="center">
+  <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12911-023-02292-3/MediaObjects/12911_2023_2292_Fig1_HTML.png?as=webp" alt="TCN-based Autoencoder" width="50%">
+</div>
 
 ### Selective Prediction Model
-![Selective Prediction Model](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12911-023-02292-3/MediaObjects/12911_2023_2292_Fig2_HTML.png?as=webp){width=50%}
+<div align="center">
+  <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12911-023-02292-3/MediaObjects/12911_2023_2292_Fig2_HTML.png?as=webp" alt="Selective Prediction Model" width="50%">
+</div>
 
 ### TSNE Result
-![TSNE Result](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12911-023-02292-3/MediaObjects/12911_2023_2292_Fig5_HTML.png?as=webp){width=50%}
+<div align="center">
+  <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12911-023-02292-3/MediaObjects/12911_2023_2292_Fig5_HTML.png?as=webp" alt="TSNE Result" width="50%">
+</div>
 
 
 ## Conclusion
