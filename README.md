@@ -24,6 +24,14 @@ SelANet is an algorithm developed to detect sleep apnea using limited biological
   - Specificity: 89.21%
 - Improvement of approximately 7.03% in all metrics compared to non-selective prediction
 
+## Model Architecture
+
+### TCN-based Autoencoder
+![TCN-based Autoencoder](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12911-023-02292-3/MediaObjects/12911_2023_2292_Fig1_HTML.png?as=webp)
+
+### Selective Prediction Model
+![Selective Prediction Model](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12911-023-02292-3/MediaObjects/12911_2023_2292_Fig2_HTML.png?as=webp)
+
 ## Advantages
 
 1. Minimizes false diagnoses in cases of high uncertainty
